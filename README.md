@@ -17,8 +17,8 @@ Build an interactive Power BI dashboard to visualize sales performance across mo
 
 ---
 
-## 📝 `Insights.txt` (3–4 insights)
-```text
+##  Insights
+
 1. The West region consistently outperformed all other regions in terms of sales.
 2. Sales peaked in December, indicating strong performance during the holiday season.
 3. The Technology category had the highest sales across all product categories.
